@@ -7,6 +7,8 @@ public class Demo {
 		
 		
 		System.out.println("Hello");
+		
+		System.out.println("This is my test case"); 
 
 	}
 
